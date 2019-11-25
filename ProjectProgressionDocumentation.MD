@@ -12,6 +12,7 @@ Right away I vaguely determine I will divide this game into five parts.
 Time displayed in hour - minutes
 
 0:0 google how does jframe/jlabel and all those graphical things work again
+
 0:10 Got a window up, added JLabels to it and... they refuse to show up.. hrm...
 0:15 Nevermind, setting a background color doesn't actually make a JLabel that colour
 0:18 Aha, yes it did. I had to label.setOpaque(true);
